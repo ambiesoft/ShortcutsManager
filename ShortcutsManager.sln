@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual C# Express 2005
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortcutsManager", "ShortcutsManager\ShortcutsManager.csproj", "{504A62FE-9BD2-420C-A5A4-FC0D9EB49042}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortcutsManagerTest", "ShortcutsManagerTest\ShortcutsManagerTest.csproj", "{2D15C5EF-9DB5-456F-A510-A3748958A5D5}"
@@ -22,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E69E4C0-EE60-414B-991A-DBD65A4F84D1}
 	EndGlobalSection
 EndGlobal
