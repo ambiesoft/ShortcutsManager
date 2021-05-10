@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortcutsManager", "ShortcutsManager\ShortcutsManager.csproj", "{504A62FE-9BD2-420C-A5A4-FC0D9EB49042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortcutsManagerTest", "ShortcutsManagerTest\ShortcutsManagerTest.csproj", "{2D15C5EF-9DB5-456F-A510-A3748958A5D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{504A62FE-9BD2-420C-A5A4-FC0D9EB49042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504A62FE-9BD2-420C-A5A4-FC0D9EB49042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504A62FE-9BD2-420C-A5A4-FC0D9EB49042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504A62FE-9BD2-420C-A5A4-FC0D9EB49042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D15C5EF-9DB5-456F-A510-A3748958A5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D15C5EF-9DB5-456F-A510-A3748958A5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D15C5EF-9DB5-456F-A510-A3748958A5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D15C5EF-9DB5-456F-A510-A3748958A5D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
